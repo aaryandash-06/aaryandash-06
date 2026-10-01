@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/header.svg" alt="Aaryan Dash - Backend Developer" width="100%"/>
+<img src="https://raw.githubusercontent.com/aaryandash-06/aaryandash-06/main/assets/header.svg" alt="Aaryan Dash - Backend Developer" width="100%"/>
 
 <a href="https://github.com/aaryandash-06">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&height=40&lines=Writing+Java+that+compiles+on+the+first+try+(sometimes);Python+scripts+for+everything+else;Designing+REST+APIs+%26+thinking+in+databases;Currently+leveling+up+backend+skills+%F0%9F%9A%80" alt="Typing SVG" />
